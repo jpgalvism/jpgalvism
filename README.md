@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juan Pablo Galvis -> @jpgalvism
 - 👀 I’m interested in .net, ML , AI and Big Data
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and spark
 - 💞️ I’m looking to collaborate on Big data projects
 - 📫 How to reach me  jpgalvism@gmail.com
 
